@@ -16,7 +16,8 @@ For example, say you have a project called `abc`. It has a
 {deps, [
   % your dependencies here
 ]}.
-{sub_dirs, ["apps/abc_web", "apps/abc_voip", "apps/abc_api"]}.```
+{sub_dirs, ["apps/abc_web", "apps/abc_voip", "apps/abc_api"]}.
+```
 
 You have three subdirectories that are part of this parent project:
 * `apps/abc_web`
